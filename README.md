@@ -293,6 +293,6 @@ PokéPastel es un proyecto académico realizado con fines educativos. Pokémon y
 
 **Asignatura:** Desarrollo Móvil
 
-**Integrantes:** Pendiente de completar.
+**Integrantes:** Paula Casallas
 
-**Institución:** Pendiente de completar.
+**Institución:** Heidy Diaz
